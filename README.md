@@ -35,7 +35,7 @@ becomes:
 ## Classification
 
 We trained our classifier on data from this [Kaggle dataset](https://www.kaggle.com/kazanova/sentiment140).
-We obtained best results with an LSTM architecture. See [our report](Docuements/Report_NLP_Project) for more details and plots.
+We obtained best results with an LSTM architecture. See [our report](Documents/Report_NLP_Project) for more details and plots.
 
 ## Results
 
