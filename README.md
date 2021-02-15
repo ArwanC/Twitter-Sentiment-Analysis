@@ -17,7 +17,7 @@ The following preprocessing steps are carried out (with the exception of stop-wo
 | Action | Input | Output
 | ----------- | ----------- | -----------
 | Removing or replacing non-ASCII characters | - “网络”<br>- “éphémère” | - “”- “ephemere”
-| Removing URLs | - “check this link: http:// www.example.com/ index.html” | - “check this link:”
+| Removing URLs | - “check this link: http:// www.example.com/index.html” | - “check this link:”
 | Replacing contractions | - “isn’t”<br>- “I’m” | - “is not” - “I am”
 | Removing punctuation | - “@barbie - love you ! :D” | - “barbie love you”
 | Replacing numbers by text | - “10 gallons of milk please!” | - “ten gallons of milk please!”
