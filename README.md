@@ -35,8 +35,10 @@ becomes:
 ## Classification
 
 We trained our classifier on data from this [Kaggle dataset](https://www.kaggle.com/kazanova/sentiment140).
-We obtained best results with an LSTM architecture. See [our report]() for more details and plots.
+We obtained best results with an LSTM architecture. See [our report](Docuements/Report_NLP_Project) for more details and plots.
 
 ## Results
 
-![Heatmap](image.jpg)
+![Heatmap](Documents/sentiment_heatmap.png)
+
+This heatmap show the concentration of tweets over the mentioned timeframe, with values ranging from 0 (negative) to 1 (positive). We see a high increase in tweets starting on May 25th 2020. Most of the tweets are considered negative.
