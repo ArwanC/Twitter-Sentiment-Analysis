@@ -41,4 +41,4 @@ We obtained best results with an LSTM architecture. See [our report](Documents/R
 
 ![Heatmap](Documents/sentiment_heatmap.png)
 
-This heatmap show the concentration of tweets over the mentioned timeframe, with values ranging from 0 (negative) to 1 (positive). We see a high increase in tweets starting on May 25th 2020. Most of the tweets are considered negative.
+This heatmap shows the concentration of tweets over the mentioned timeframe, with values ranging from 0 (negative sentiment) to 1 (positive sentiment). We see a high increase in tweets starting on May 25th 2020. Most of the tweets are considered negative.
